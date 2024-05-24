@@ -1,0 +1,11 @@
+.nav {
+  width: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin-left: 130px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
